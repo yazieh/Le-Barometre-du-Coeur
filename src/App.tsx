@@ -156,7 +156,7 @@ function App() {
                         <Heart className="w-32 h-32 text-rose-500 fill-rose-500 animate-pulse relative z-10 drop-shadow-lg" />
                     </div>
                     <h2 className="mt-12 text-2xl font-serif tracking-[0.3em] text-rose-800 animate-pulse text-center px-6">
-                        INTERPRÉTATION DES ASTRES...
+                        INTERPRÉTATION...
                     </h2>
                 </div>
             )}
